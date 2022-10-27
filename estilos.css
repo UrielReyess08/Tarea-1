@@ -1,8 +1,12 @@
-img { 
-    width: 60px;
-    height: 60px;
-    
-}
-h1{
+header{
+    background-color: #714520;
+    color: aliceblue;
+    font-size: xx-large;
     text-align: end;
+}
+article{
+    background-color: #76971B;
+    color: aliceblue;
+    font-size: xx-large;
+    text-align: justify;
 }
